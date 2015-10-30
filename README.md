@@ -26,4 +26,4 @@
 #pos = 6, pattern = aabbcc
 #pos = 6, pattern = aabbccdd
 
-#3. Longest Match is just longest match using aho-corasick.
+#3. Longest Match is just longest match using aho-corasick with suffix arrays of possible strings.
